@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "/usr/local/Caskroom/mambaforge/base/envs/torch/bin/python"
+
+}
